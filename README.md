@@ -1,207 +1,63 @@
-Aqui está um README pronto para o seu repositório, com foco em estudo de Big Data e Data Analytics e em organizar links do YouTube e PDFs. Você pode adaptar a tabela de conteúdos conforme os arquivos reais.# NotebookLM — Estudos de Big Data e Data Analytics
+ # NotebookLM — Big Data e Data Analytics
 
-Repositório criado para organizar meu material de estudo sobre **Big Data**, **Data Analytics**, ferramentas de dados e conceitos relacionados.
+Este repositório apresenta o material de estudo utilizado em um **NotebookLM** dedicado aos temas **Big Data** e **Data Analytics**.
 
-Os conteúdos incluem:
+O objetivo é reunir fontes organizadas para apoiar estudos, resumos, perguntas, comparações e revisões sobre análise de dados e processamento de grandes volumes de dados.
 
-- Vídeos do YouTube
-- Materiais em PDF
-- Anotações e resumos
-- Referências utilizadas em estudos
-- Projetos e análises práticas
+## 📓 Acesse o NotebookLM
 
-O objetivo é facilitar o acesso às fontes de estudo e apoiar a criação de resumos, análises e respostas por meio de ferramentas como o NotebookLM.
+[Abrir notebook no NotebookLM](https://notebook.google.com/notebook/c2c4c5bf-f78d-41d8-8727-acb04d14cde6)
+O notebook contém as fontes relacionadas aos estudos de Big Data e Data Analytics. As respostas geradas no NotebookLM devem indicar de qual fonte foi extraída a informação, permitindo a conferência direta do conteúdo original.
 
----
+## 🎯 Objetivos de estudo
 
-## 📚 Conteúdo
+- Compreender os fundamentos de Big Data.
+- Estudar conceitos de Data Analytics.
+- Relacionar dados, ferramentas e técnicas de análise.
+- Produzir resumos e perguntas a partir das fontes fornecidas.
+- Utilizar as referências para revisar conceitos e validar respostas.
 
-Os estudos abrangem temas como:
+## 📚 Fontes utilizadas
 
-- Fundamentos de Big Data
-- Data Analytics
-- Engenharia de Dados
-- Análise exploratória de dados
-- Estatística
-- Visualização de dados
-- Bancos de dados
-- SQL
-- Python para dados
-- Apache Spark
-- Business Intelligence
-- Ciência de Dados
-- Machine Learning aplicado a dados
-- Qualidade e governança de dados
-- Arquiteturas de dados
+### Vídeos do YouTube
 
----
+| Fonte | Tema | Tipo |
+|---|---|---|
+| [Vídeo 1](https://www.youtube.com/watch?v=FF25PP4dq9M) | Estudo sobre dados e análise de dados | Vídeo |
+| [Vídeo 2](https://www.youtube.com/watch?v=FwjaHCVNBWA) | Estudo sobre dados e análise de dados | Vídeo |
 
-## 🗂️ Estrutura do repositório
+## 🧭 Como usar o notebook
+
+1. Abra o [notebook](https://notebook.google.com/notebook/c2c4c5bf-f78d-41d8-8727-acb04d14cde6).
+2. Consulte uma das fontes cadastradas.
+3. Faça perguntas sobre Big Data ou Data Analytics.
+4. Verifique as citações apresentadas em cada resposta.
+5. Clique na fonte citada para conferir o trecho original.
+6. Use o conteúdo para criar resumos, mapas de conceitos e planos de estudo.
+
+## 🔎 Exemplos de perguntas
+
+- Quais são os principais conceitos abordados nas fontes?
+- Qual é a diferença entre Big Data e Data Analytics?
+- Quais etapas estão envolvidas em um processo de análise de dados?
+- Como os dados podem ser utilizados na tomada de decisões?
+- Quais ferramentas e técnicas são mencionadas nas fontes?
+- Faça um resumo dos principais pontos apresentados nos vídeos.
+- Compare os conceitos apresentados pelas diferentes fontes.
+
+## 📌 Citação das respostas
+
+Cada resposta utilizada no notebook deve ser consultada junto com suas citações. As referências permitem:
+
+- Identificar a fonte original da informação.
+- Conferir o contexto da resposta.
+- Reduzir interpretações incorretas.
+- Organizar o processo de revisão.
+
+O NotebookLM apresenta as fontes usadas em suas respostas; este repositório não substitui a leitura dos materiais originais.
+
+## 🗂️ Estrutura sugerida do repositório
 
 ```text
 .
-├── pdfs/                 # Materiais em PDF
-├── videos/               # Links e informações sobre vídeos
-├── resumos/              # Resumos e notas de estudo
-├── exercicios/           # Exercícios práticos
-├── projetos/             # Projetos de análise e estudos de caso
 └── README.md
-```
-
-A organização poderá ser expandida conforme novos conteúdos forem adicionados.
-
----
-
-## ▶️ Material em vídeo
-
-Os vídeos utilizados como fonte de estudo devem ser organizados em uma tabela contendo:
-
-| Tema | Título | Canal | Link |
-|---|---|---|---|
-| Big Data | Exemplo de conteúdo | Exemplo de canal | [Assistir](https://youtube.com) |
-| Data Analytics | Exemplo de conteúdo | Exemplo de canal | [Assistir](https://youtube.com) |
-| SQL | Exemplo de conteúdo | Exemplo de canal | [Assistir](https://youtube.com) |
-
-Para evitar problemas relacionados a direitos autorais, o repositório não precisa armazenar os vídeos, apenas suas referências oficiais.
-
----
-
-## 📄 Materiais em PDF
-
-Os documentos em PDF podem conter:
-
-- Apresentações
-- Artigos
-- E-books
-- Documentação técnica
-- Apostilas
-- Resumos
-- Slides de cursos
-- Estudos de caso
-
-Os arquivos devem preferencialmente ser armazenados em:
-
-```text
-pdfs/
-```
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-Possíveis ferramentas utilizadas durante os estudos:
-
-- Python
-- Pandas
-- NumPy
-- SQL
-- Apache Spark
-- Jupyter Notebook
-- Power BI
-- Tableau
-- Excel
-- Git
-- GitHub
-- Docker
-- BigQuery
-- Google Cloud Platform
-- Databricks
-- Apache Hadoop
-- Apache Kafka
-- MongoDB
-- PostgreSQL
-
----
-
-## 🎯 Objetivos de aprendizagem
-
-- Compreender os conceitos fundamentais de Big Data
-- Identificar ferramentas utilizadas no ecossistema de dados
-- Desenvolver habilidades em análise de dados
-- Criar consultas SQL eficientes
-- Trabalhar com dados em grande escala
-- Construir dashboards e visualizações
-- Realizar análises exploratórias
-- Preparar dados para modelos analíticos
-- Interpretar indicadores e transformar dados em insights
-- Entender arquiteturas modernas de dados
-
----
-
-## 🔄 Fluxo básico de uma análise de dados
-
-```text
-Coleta de dados
-      ↓
-Extração e armazenamento
-      ↓
-Limpeza e tratamento
-      ↓
-Análise exploratória
-      ↓
-Visualização
-      ↓
-Geração de insights
-      ↓
-Tomada de decisão
-```
-
----
-
-## 💡 Como utilizar este material
-
-1. Consulte os arquivos PDF para estudar os conceitos teóricos.
-2. Assista aos vídeos associados aos temas.
-3. Crie resumos e organize os principais aprendizados.
-4. Utilize o NotebookLM para:
-   - Gerar resumos
-   - Criar perguntas sobre o conteúdo
-   - Comparar materiais
-   - Produzir guias de revisão
-   - Identificar conceitos principais
-5. Realize exercícios e projetos práticos.
-6. Atualize continuamente o repositório com novas fontes.
-
----
-
-## 📝 Plano de estudos sugerido
-
-- Introdução ao Big Data
-- Conceitos de Data Analytics
-- Estatística para dados
-- SQL
-- Python e bibliotecas de análise
-- Manipulação e limpeza de dados
-- Visualização de dados
-- Bancos de dados relacionais e não relacionais
-- Apache Spark e processamento distribuído
-- Engenharia de dados
-- Arquitetura de dados
-- Data Lakes e Data Warehouses
-- Governança e qualidade de dados
-- Big Data na nuvem
-- Projetos práticos
-
----
-
-## ⚠️ Observação sobre os materiais
-
-Alguns materiais podem estar protegidos por direitos autorais. Recomenda-se:
-
-- Utilizar links oficiais
-- Evitar redistribuir documentos sem autorização
-- Referenciar corretamente autores e instituições
-- Respeitar as licenças dos materiais
-- Utilizar arquivos disponíveis publicamente ou próprios
-
----
-
-## 🤝 Contribuições
-
-Este repositório é destinado principalmente ao meu processo de aprendizado. Sugestões de materiais relevantes podem ser feitas por meio de *issues* ou *pull requests*.
-
----
-
-## 📌 Status
-
-🚧 Repositório em constante atualização com novos conteúdos de Big Data e Data Analytics.
